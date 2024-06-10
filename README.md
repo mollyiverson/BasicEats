@@ -1,4 +1,4 @@
-# CSM_489
+# BasicEats
 ***
 ## Project Description
 BasicEats is a recipe-sharing website that allows users to search for, view, and save recipes. Users can also generate a weekly shopping list for selected recipes.
